@@ -1,0 +1,7 @@
+{
+  "name": "barber-delivery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
